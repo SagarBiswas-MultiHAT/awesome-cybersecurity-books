@@ -14,7 +14,7 @@
 
 ---
 
-### 📂 Direct Drive Library Access
+## 📂 Direct Drive Library Access
 
 👉 **[Access Full Google Drive Library Folder](https://drive.google.com/drive/folders/1eocSz3hnalhkdJ_LfNKuXWADwRp_M23L?usp=sharing)**
 
@@ -84,7 +84,8 @@ graph TD
 13. [Social Engineering & Human Factors (2 Books)](#13-social-engineering--human-factors-2-books)
 14. [Specialized / Miscellaneous Extras (5 Books)](#14-specialized--miscellaneous-extras-5-books)
 15. [Suggested Learning Path](#15-suggested-learning-path)
-16. [Contributing](#contributing)
+16. [Support the Open-Source Ecosystem](#Support-the-Open-Source-Ecosystem)
+17. [Contributing](#contributing)
 
 ---
 
@@ -307,6 +308,67 @@ Tackle these first if any fundamental category feels unfamiliar; they shorten th
 
 ---
 
+<a id="companion-ecosystem"></a><a id="flagship-ecosystem"></a><a id="Support-the-Open-Source-Ecosystem"></a>
+## ⭐ Support the Open-Source Ecosystem
+
+If you find this roadmap or our companion resources helpful, please consider starring ⭐ the repositories on GitHub! Your support increases visibility, helps more aspiring security professionals discover free high-quality education, and keeps these community projects thriving:
+
+### 🥷 [The BlackHAT Roadmap 2027](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap)
+[![Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/The-BlackHAT-roadmap?style=flat-square&color=gold&label=⭐%20Stars)](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap)
+[![Forks](https://img.shields.io/github/forks/SagarBiswas-MultiHAT/The-BlackHAT-roadmap?style=flat-square&color=blue&label=🍴%20Forks)](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap/network/members)
+
+**The complete hacking & penetration testing roadmap from beginner to elite.**
+* **Massive Technical Scope**: 44,982 lines of rigorous technical documentation accompanied by 150+ visual diagrams covering attack chains, systems architecture, and exploitation flows.
+* **Specialized Offensive Operations**: In-depth coverage of OPSEC survival, web security, Active Directory dominance, binary exploitation, EDR evasion mechanisms, and 0-day vulnerability research.
+* **Arsenal & Payloads**: 300+ cataloged tools, 200+ MITRE ATT&CK techniques, custom weaponized C & Rust payloads, and modern AI security resources.
+* **Learning Assets**: Hands-on lab setup guides, curated books, top courses, technical blogs, and CTF/practice platform recommendations.
+
+👉 **[Access The BlackHAT Roadmap 2027](https://github.com/SagarBiswas-MultiHAT/The-BlackHAT-roadmap)**
+
+---
+
+### 🎯 [Penetration Testing Roadmap (2026 Edition)](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap)
+[![Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/penetration-testing-roadmap?style=flat-square&color=gold&label=⭐%20Stars)](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap)
+[![Forks](https://img.shields.io/github/forks/SagarBiswas-MultiHAT/penetration-testing-roadmap?style=flat-square&color=blue&label=🍴%20Forks)](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap/network/members)
+
+**A structured, hands-on 60-week curriculum to master penetration testing and ethical hacking from scratch.**
+* **Structured 60-Week Path**: Four progressive phases (Foundations, Core Pentesting, Specialization, and Professional CTF/Bug Bounties) from absolute zero to job-ready.
+* **500+ Free Hands-On Labs**: Massive curated collection of free TryHackMe rooms, vulnerable machines, and interactive practice environments with progress tracking.
+* **2026 Emerging Vectors**: Dedicated deep dives into modern attack surfaces including AI/LLM security (OWASP Top 10 for LLMs), Cloud IAM escalation (AWS/Azure/GCP), API abuse, and CI/CD supply chain attacks.
+* **Arsenal & Certification Maps**: Complete tooling directories, cheat sheets, and clear milestones mapping entry-level to advanced ethical hacking certs.
+
+👉 **[Access Penetration Testing Roadmap](https://github.com/SagarBiswas-MultiHAT/penetration-testing-roadmap)**
+
+---
+
+### 🧭 [Awesome Cybersecurity Paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)
+[![Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/awesome-cybersecurity-paths?style=flat-square&color=gold&label=⭐%20Stars)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)
+[![Forks](https://img.shields.io/github/forks/SagarBiswas-MultiHAT/awesome-cybersecurity-paths?style=flat-square&color=blue&label=🍴%20Forks)](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths/network/members)
+
+**A comprehensive cybersecurity career roadmap and handbook.**
+* **35 Industry Roles**: Comprehensive role breakdowns and skill profiles across Offensive Security, Defensive Operations (SOC Analyst, Incident Responder, Threat Hunter), and Governance, Risk & Compliance (GRC).
+* **Tool & Skill Matrix**: 100+ industry tools mapped directly to job expectations, daily responsibilities, and technical proficiencies.
+* **Certification Milestones**: Tailored credential tracks guiding learners from entry-level foundational certs to specialized professional credentials.
+* **Enterprise Architectures**: 10 real-world cybersecurity architecture blueprints showing enterprise defense and operational workflows.
+
+👉 **[Access Awesome Cybersecurity Paths](https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-paths)**
+
+---
+
+### 📓 [Research Notebooks & Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/)
+
+**Curated technical notebooks and field manuals with an interactive in-browser reader.**
+* **Interactive In-Browser Reader**: Over 32 modular notebooks, field manuals, and study vaults equipped with dark-mode reading and code demonstrations.
+* **Core Cybersecurity & OSINT**: Handbooks including Google Dorks: The Complete Handbook, Understanding Phishing, and strategic career path guides.
+* **Networking & Infrastructure**: Technical field manuals detailing computer networking fundamentals, DNS architecture, and network protocols.
+* **Programming for Security**: Complete practical tracks for Python in cybersecurity, Bash automation, C/C++ data structures, and web technologies.
+
+👉 **[Access Research Notebooks & Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/)**
+
+
+---
+
+
 ## Contributing
 
 Contributions are warmly welcomed! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) guide before submitting suggestions or Pull Requests.
@@ -319,4 +381,10 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) and [Security Policy](SE
 
 This curated educational repository is distributed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**. See [LICENSE](LICENSE) for details.
 
+<div align="right">
+
 *Knowledge should be free and accessible to all. Happy studying!*
+
+</div>
+
+---

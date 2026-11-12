@@ -10,6 +10,7 @@
   <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-green.svg?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books/commits/main"><img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/awesome-cybersecurity-books?style=for-the-badge&color=orange" alt="Last Commit"></a>
   <a href="https://github.com/SagarBiswas-MultiHAT/awesome-cybersecurity-books/graphs/contributors"><img src="https://img.shields.io/github/contributors/SagarBiswas-MultiHAT/awesome-cybersecurity-books?style=for-the-badge&color=purple" alt="Contributors"></a>
+  <a href="https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK"><img src="https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor SagarBiswas-MultiHAT on Polar.sh"></a>
 </p>
 
 ---
@@ -85,7 +86,8 @@ graph TD
 14. [Specialized / Miscellaneous Extras (5 Books)](#14-specialized--miscellaneous-extras-5-books)
 15. [Suggested Learning Path](#15-suggested-learning-path)
 16. [Support the Open-Source Ecosystem](#Support-the-Open-Source-Ecosystem)
-17. [Contributing](#contributing)
+17. [Support MultiHAT Open-Source](#support-multihat-open-source)
+18. [Contributing](#contributing)
 
 ---
 
@@ -365,6 +367,16 @@ If you find this roadmap or our companion resources helpful, please consider sta
 
 👉 **[Access Research Notebooks & Field Manuals](https://sagarbiswas-multihat.github.io/notebooks/)**
 
+
+---
+
+## Support MultiHAT Open-Source
+
+If you find this project useful in your workflow, development, or security research, consider supporting **SagarBiswas-MultiHAT** in its ongoing maintenance and future updates (supports both One-Time and Monthly backing):
+
+[![Support on Polar.sh](https://img.shields.io/badge/Support%20on-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagarbiswas.multihat.dev-2563EB?style=for-the-badge&logo=todoist&logoColor=white)](https://sagarbiswas.multihat.dev/)
+[![Agency](https://img.shields.io/badge/Agency-multihat.dev-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://multihat.dev)
 
 ---
 
